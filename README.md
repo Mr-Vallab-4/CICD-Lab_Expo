@@ -22,3 +22,6 @@ Clone this repo and run the notebook or app:
 git clone https://github.com/Mr-Vallab-4/CICD-Lab_Expo.git
 cd CICD-Lab_Expo
 pip install -r requirements.txt
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mr-Vallab-4/CICD-Lab_Expo/blob/main/my_project.ipynb)
